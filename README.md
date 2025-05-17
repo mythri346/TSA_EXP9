@@ -1,7 +1,5 @@
 
 # EX.NO.09    A project on Time series analysis on weather forecasting using ARIMA model 
-### DEVELOPED BY: E.MYTHRI
-###  REGISTER NO: 212223240034
 ###  DATE:17/05/2025
 ### AIM:
 To Create a project on Time series analysis on coffeesales forecasting using ARIMA model in  Python and compare with other models.
